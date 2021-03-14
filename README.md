@@ -5,3 +5,4 @@
 [ ] create pacckages to hold logic to add / modify / remove todo tasks <br/>
 [ ] add command line support <br/>
 [ ] add rest api support <br/>
+[ ] sync access to tasks 
